@@ -1,0 +1,5 @@
+def csusb(schoolName, schoolMascot):
+  print(schoolName + " " + schoolMascot)
+
+csusb("CSU, San Bernardino", "Coyote")
+
