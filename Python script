@@ -3,3 +3,8 @@ def csusb(schoolName, schoolMascot):
 
 csusb("CSU, San Bernardino", "Coyote")
 
+def college_experience(Great, Good, Bad):
+  Great = input("I had the time of my life, and made many friends")
+  Good = input("It was ok, C's get degrees!")
+  Bad = input("Never doing that again")
+  print('How was your college experience?\n')
